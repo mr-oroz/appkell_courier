@@ -1,0 +1,16 @@
+<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="vuesax/linear/camera">
+<g id="vuesax/linear/camera_2">
+<g id="camera">
+<path id="Vector" d="M7.76005 22H18.24C21 22 22.1 20.31 22.23 18.25L22.75 9.99C22.89 7.83 21.17 6 19 6C18.39 6 17.83 5.65 17.55 5.11L16.83 3.66C16.37 2.75 15.17 2 14.15 2H11.86C10.83 2 9.63005 2.75 9.17005 3.66L8.45005 5.11C8.17005 5.65 7.61005 6 7.00005 6C4.83005 6 3.11005 7.83 3.25005 9.99L3.77005 18.25C3.89005 20.31 5.00005 22 7.76005 22Z" stroke="#FF6C29" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_2" d="M11.5 8H14.5" stroke="#FF6C29" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_3" d="M13 18C14.79 18 16.25 16.54 16.25 14.75C16.25 12.96 14.79 11.5 13 11.5C11.21 11.5 9.75 12.96 9.75 14.75C9.75 16.54 11.21 18 13 18Z" stroke="#FF6C29" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</g>
+<path id="Vector_4" d="M9.33333 19.7917C9.33333 20.5729 9.11456 21.3126 8.72915 21.9376C8.53123 22.2709 8.29165 22.5729 8.0104 22.8125C7.97915 22.8542 7.94792 22.8854 7.90625 22.9167C7.17709 23.5729 6.21875 23.9583 5.16667 23.9583C3.89583 23.9583 2.76039 23.3854 2.01039 22.4895C1.98955 22.4583 1.95836 22.4375 1.93753 22.4063C1.81253 22.2604 1.69793 22.1042 1.60418 21.9376C1.21877 21.3126 1 20.5729 1 19.7917C1 18.4792 1.60417 17.3021 2.5625 16.5417C2.73958 16.3958 2.92706 16.2709 3.12498 16.1667C3.72914 15.8229 4.42708 15.625 5.16667 15.625C6.20833 15.625 7.14581 16 7.87497 16.6354C7.99997 16.7291 8.11458 16.8438 8.21874 16.9584C8.90624 17.7084 9.33333 18.6979 9.33333 19.7917Z" fill="white" stroke="#FF6C29" stroke-width="1.5" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<g id="Group">
+<path id="Vector_5" d="M6.7184 19.7708H3.61426" stroke="#FF6C29" stroke-width="1.5" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_6" d="M5.16638 18.25V21.3646" stroke="#FF6C29" stroke-width="1.5" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</g>
+</svg>

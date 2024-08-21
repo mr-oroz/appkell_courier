@@ -1,0 +1,125 @@
+{
+ "welcomeToAppKel": "Добро пожаловать в сервис ",
+  "orderProductsWithoutLeavingHome": "Заказывайте продукты не выходя из дома",
+    "codeWasSentToYourNumber": "Введите код подтверждения отправленный на номер {number}",
+    "codeWasSentToYourEmail": "Введите код подтверждения, отправленный на почту {email}",
+      "empty": "Пока что пусто",
+  "now": "Cейчас",
+  "secondsAgo": "{t, plural, one{{t} секунда назад} few{{t} секунды назад} many{{t} секунд назад} other{{t} секунд назад}}",
+  "minutesAgo": "{t, plural, one{{t} минута назад} few{{t} минуты назад} many{{t} минут назад} other{{t} минут назад}}",
+  "hoursAgo": "{t, plural, one{{t} час назад} few{{t} часа назад} many{{t} часов назад} other{{t} часов назад}}",
+  "daysAgo": "{t, plural, one{{t} день назад} few{{t} дня назад} many{{t} дней назад} other{{t} дней назад}}",
+  "monthsAgo": "{t, plural, one{{t} месяц назад} few{{t} месяца назад} many{{t} месяцев назад} other{{t} месяцев назад}}",
+  "yearsAgo": "{t, plural, one{{t} год назад} few{{t} года назад} many{{t} лет назад} other{{t} лет назад}}",
+  "orderWasCanceled": "Заказ был отменен, так как вы не успели проверить оплату. Если оплата прошла, обратитесь к администратору.",
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  "russian": "Русский",
+  "kygyzcha": "Кыргыз тили",
+  "greetingText": "Добро пожаловать! \nВойдите",
+  "enterYourPhoneNumber": "Введите номер телефона",
+  "phoneNumber": "Номер телефона",
+  "enterYourPassword": "Введите пароль",
+  "password": "Пароль",
+  "repeatPassword": "Повторите пароль",
+  "forgotPassword": "Забыли пароль?",
+  "passwordMismatch": "Пароль не совпадает",
+  "login": "Войти",
+  "or": "или",
+  "loginWithGoogle": "Войти через Google",
+  "loginWithSocialNetwork": "Войти через соцсеть",
+  "loginWithAppleId": "Войти через Apple ID",
+  "dontHaveAnAccount": "У вас нет аккаунта?",
+  "register": "Зарегистрироваться",
+  "registration": "Регистрация",
+  "skip": "Пропустить",
+  "incorrectPhone": "Некорректный телефон",
+  "incorrectPassword": "Пароль должен содержать не менее 6 символов",
+  "name": "Имя",
+  "lastName": "Фамилия",
+  "userName": "Имя пользователя",
+  "statusUser": "Статус пользователя",
+  "dateOfBirth": "Дата рождения",
+  "requiredField": "Поле обязательно для заполнения",
+  "main": "Главная",
+  "activities": "Активности",
+  "services": "Услуги",
+  "messages": "Сообщения",
+  "profile": "Профиль",
+  "incorrectUserName": "Имя пользователя должно содержать латинские буквы, цифры, символы подчеркивания и точки",
+  "save": "Сохранить",
+  "cancel": "Отмена",
+  "city": "Город",
+  "search": "Поиск",
+  "view": "Просмотров",
+  "followers": "Подписчики",
+  "following": "Подписки",
+  "errorFromServer": "Ошибка с сервера",
+  "byClickingRegister": "Нажимая на кнопку, я соглашаюсь с условиями",
+  "rulesForUsingTheApplication": "Правил пользования приложении",
+  "youHaveAnAccount": "У вас есть аккаунт?",
+  "restorePassword": "Восстановление пароля",
+  "enterYourPhoneNumberToRecoverAccess": "Для восстановления пароля, введите ваш номер телефона, на которую будет выслана ссылка для завершения восстановления доступа",
+  "userDoesNotExist": "Пользователь не существует",
+  "confirmationCode": "Код подтверждения",
+  "resendIn": "Отправить повторно через {time}",
+  "changePassword": "Изменить пароль",
+  "passwordMustContainAtLeast6Characters": "Пароль должен содержать не менее 6 символов",
+  "camera": "Камера",
+  "gallery": "Галерея",
+  "clickToAdd": "Нажмите кнопку {addVerbs} чтобы добавить",
+  "edit": "Редактировать",
+  "editProfile": "Редактировать профиль",
+  "changeBackground": "Сменить фон",
+  "changeAvatar": "Сменить фото",
+  "sex": "Пол",
+  "men": "Мужчина",
+  "women": "Женщина",
+  "information": "Информация",
+  "statistic": "Статистика",
+  "viewCount": "{count, plural, =0{0 откликов} =1{1 отклик} other{{count} отклика}}",
+  "academies": "Академии",
+  "tournaments": "Турниры",
+  "marketPlace": "Маркет плейс",
+  "games": "Игры",
+  "footballFields": "Футбольные поля",
+  "players": "Игроки",
+  "map": "Карта",
+  "sort": "Сортировка",
+  "filter": "Фильтр",
+  "all": "Все",
+  "nearby": "Рядом",
+  "join": "Присоединиться",
+
+
+  
+
+
+  "@clickToAdd": {
+    "description": "A message",
+    "placeholders": {
+      "addVerbs": {
+        "type": "String"
+      }
+    }
+  }
+}
